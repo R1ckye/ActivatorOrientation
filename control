@@ -1,0 +1,9 @@
+Package: com.rickye.activatororientation
+Name: ActivatorOrientation
+Depends: mobilesubstrate, libactivator
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Activator listener to lock/unlock orientation lock
+Maintainer: Rickye
+Author: Rickye
+Section: Tweaks
